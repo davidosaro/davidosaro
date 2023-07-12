@@ -19,8 +19,6 @@ I really enjoy building solutions that i can use for one, and also that can bett
 
 - 👯 I’m looking to collaborate on **More Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://davidosaro.com](https://davidosaro.com)
-
 - 📫 How to reach me **justdavidosaro@gmail.com**
 
 - ⚡ Fun fact **I love making games**
