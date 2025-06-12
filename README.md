@@ -7,25 +7,9 @@ I am prolificient in using React, Vue, MongoDB, Jest, and AWS (S3, ECS, ECR, Lam
 I am a excellent team player, communicator and a result-oriented geek.
 
 #### Skills and Experience
-* React
-* Vue
-* MongoDB
-* Jest
+* React + Vue
+* Nodejs + Nestjs
+* Go lang
 * AWS
-
-### Life as a Software developer
-
-- 🔭 I’m currently working on **a Preloader NPM Package**
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👯 I’m looking to collaborate on **More Open Source Projects**
-
-- 📫 How to reach me **justdavidosaro@gmail.com**
-
-- ⚡ Fun fact **I love making games**
-
-### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dav1dosaro&show_icons=true&theme=shadow_blue)
 
 
