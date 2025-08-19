@@ -1,5 +1,5 @@
 # Hi, I'm Dave 👋
-I'm a Backend Engineer
+I'm a Backend Engineer who has worked and deployed applications with:
 * Frameworks and Libraries: React.js, Vue.js, Node.js, Express.js, Nest.js, Prisma, TypeORM
 * Databases: PostgreSQL, MongoDB, Redis
 * Programming Languages: Javascript, Go lang
